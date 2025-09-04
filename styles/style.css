@@ -123,3 +123,44 @@ opacity: 0.7;
 }
 .card-container{display: flex; margin-bottom: 50px; }
 .sells-container{margin: 250px;}
+
+.ft-bg{background-image: url(/assets/social-bg.png); background-repeat: no-repeat ;background-size: cover;
+height: 476px; background-position: center;}
+.ft-heading{color: rgba(16, 16, 16, 1);
+
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 120px;}
+.ft-tagline{color: rgba(16, 16, 16, 1);
+
+font-family: Work Sans;
+font-size: 20px;
+font-weight: 500;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.6;
+margin-top: 20px;
+}
+.ft-subtagline{color: rgba(16, 16, 16, 1);
+
+font-family: Work Sans;
+font-size: 28px;
+font-weight: 600;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.7;
+box-sizing: border-box;
+border-bottom: 1px solid rgba(16, 16, 16, 0.2);
+border-top: 1px solid rgba(16, 16, 16, 0.2);
+padding: 30px 10px 30px 10px;
+margin-left: 300px;margin-right: 300px; margin-top: 40px;}
+.logo{/* Group 1 */
+width: 30px;
+height: 30px;}
+.logo-container{ display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 30px;}
